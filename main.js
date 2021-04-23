@@ -42,6 +42,7 @@ function check() {
       document.getElementById("result_person_name").innerHTML = results[0].label;
       document.getElementById("result_person_accuracy").innerHTML = results[0].confidence.toFixed(3);
     }
+      
 }
 
 
