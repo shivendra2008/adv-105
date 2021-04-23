@@ -1,0 +1,32 @@
+body
+{
+    color : rgb(10, 10, 1);
+    background-color: rgb(255, 174, 0);
+}
+
+#camera
+{
+    border: 2px dashed rgb(255, 254, 252) ;
+    width: 370px;
+    height: 300px;
+}
+
+
+label
+{
+  font-size: 18px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+#name_of_people
+{
+    align-content: center;
+    font-size: 18px;
+    color: #004ff8;
+    padding: 8px;
+    border-radius: 1px;
+    background-color: white;
+  }
